@@ -55,3 +55,15 @@
   border-radius: 50%;
 }
 
+a:focus, a:hover {
+  text-decoration: none;
+  color: #35b082;
+}
+
+.btn:focus, .btn:hover {
+  color: #ffffff;
+  border: 1px solid #ff004c;
+  outline: none;
+  background-color: #ff004c;
+}
+
